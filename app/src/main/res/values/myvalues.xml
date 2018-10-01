@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Tehran</item>
+        <item>Mashhad</item>
+        <item>Isfahan</item>
+        <item>Tabriz</item>
+        <item>Ahvaz</item>
+        <item>Yazd</item>
+    </string-array>
+</resources>
